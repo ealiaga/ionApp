@@ -1,5 +1,8 @@
 {
   "name": "ionApp",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "bd6ca2d4"
 }
